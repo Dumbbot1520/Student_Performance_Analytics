@@ -13,16 +13,15 @@ The goal of the project is to evaluate overall student performance, identify per
 ## Project Files -
 
 - **StudentsPerformance_irregular.csv** – Raw student performance dataset  
-- **data_cleaning.ipynb** – Jupyter Notebook for data cleaning, outlier handling, and feature engineering  
+- **data_cleaning.ipynb** – Jupyter Notebook for data cleaning, outlier handling, and feature engineering  (you need to import the cleaned dataset or connect directly to MySQL or PostgreSQL after cleaning)
 - **SQL_EDA.sql** – SQL queries used for exploratory data analysis in MySQL  
-- **student_performance_dashboard.pbix** – Power BI dashboard visualizing student performance insights  
+- **student_analytics.pbix** – Power BI dashboard visualizing student performance insights  
 
 ---
 
 ## Tools & Technologies Used -
 
-- **Python (Pandas, NumPy)** – Data cleaning, validation, and feature engineering  
-- **Jupyter Notebook** – Data preparation and preprocessing workflow  
+- **Python (Pandas, NumPy)** – Data cleaning, validation, feature engineering , outlier handling 
 - **MySQL** – Exploratory Data Analysis (EDA) using SQL  
 - **Power BI** – Interactive dashboard and data visualization  
 
