@@ -79,3 +79,7 @@ It reflects practical experience in data cleaning, SQL-based analysis, and build
 **OM MUJUMDAR**
 
 Aspiring Data Analyst | SQL | Python | Power BI
+
+
+<img width="1038" height="731" alt="image" src="https://github.com/user-attachments/assets/c9e1ec03-9e1b-451d-8c02-b7e9139f1dc7" />
+
